@@ -1,33 +1,65 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Panwar</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">Cloud Developer | Full Stack Enthusiast | DevOps Learner</h3>
 
-<p align="left"> <a href="https://twitter.com/vert ex" target="blank"><img src="https://img.shields.io/twitter/follow/vert ex?logo=twitter&style=for-the-badge" alt="vert ex" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, GCP**
-
-- 📫 How to reach me **mohitsp21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vert ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vert ex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-singh-panwar-687634193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-singh-panwar-687634193" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-s-panwar/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohitsp21@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vert-ex&show_icons=true&locale=en&layout=compact" alt="vert-ex" /></p>
+🔭 I’m currently working on:  
+• Building cloud-native applications using **AWS**, **Azure**, and **GCP**  
+• Automating deployments with **GitHub Actions**, **Docker**, and **Terraform**  
+• Exploring **React Native** for mobile app development  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vert-ex&show_icons=true&locale=en" alt="vert-ex" /></p>
+🌱 Currently learning:  
+• Advanced **DevOps pipelines** and **Infrastructure as Code**  
+• Improving accessibility and performance for full-stack web applications  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vert-ex&" alt="vert-ex" /></p>
+📌 Recent Projects:  
+• [BestBuy - Cloud Microservices](https://github.com/mspanwar21/BestBuy)  
+• [Algonquin Pet Store](https://github.com/mspanwar21/Algonquin-Pet-Store)  
+• Real-time Skateway Monitoring (Azure IoT)  
+• Hospital ERP and Cancer Detection (ML-based)
 
+💬 Ask me about:  
+• CI/CD workflows • Cloud migration strategies • Application security • Accessibility best practices
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mspanwar21&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mspanwar21" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspanwar21&layout=compact" alt="Top Languages" />
+</p>
