@@ -36,7 +36,8 @@
 ### 🛡️ Cybersecurity & Cloud Credentials
 
 - 🧠 **Application Security Certified** (via IBM/Coursera)  
-- 🕵️ **NATAS Wargame** – Hands-on web security challenge platform  
+- 🕵️ **NATAS Wargame** – Hands-on web security challenge platform
+- - 🔐 **TryHackMe Profile:** [View Profile](https://tryhackme.com/p/mohitsp21) 
 - 🛠️ **Tools:** Wireshark, Nmap, Burp Suite, Splunk  
 - ☁️ **GCP Skills Boost Profile:** [Google Cloud Labs & Quests](https://www.cloudskillsboost.google/public_profiles/249975db-e39a-403d-af20-5e9c81b9df83)  
 - 📜 **Credly Certifications:** [View on Credly](https://www.credly.com/users/mspanwar/)  
@@ -54,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
