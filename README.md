@@ -14,8 +14,9 @@
 
 🔭 I’m currently working on:  
 • Cloud-native applications using **AWS**, **Azure**, and **GCP**  
-• Automating deployments with **GitHub Actions**, **Docker**, and **Terraform**  
-• Exploring **React Native** for mobile development and improving accessibility  
+• Automating deployments with **GitHub Actions**, **Docker**, and **Terraform**     
+• Exploring **Cloud Security** best practices and advancing skills in **Cloud Computing** across AWS, Azure, and GCP
+  
 
 🌱 Currently learning:  
 • Advanced **DevOps pipelines** and **Infrastructure as Code**  
@@ -23,8 +24,8 @@
 
 📌 Recent Projects:  
 • [BestBuy - Cloud Microservices](https://github.com/mspanwar21/BestBuy)  
-• [Algonquin Pet Store](https://github.com/mspanwar21/Algonquin-Pet-Store)  
-• Real-time Skateway Monitoring (Azure IoT)  
+• [Algonquin Pet Store](https://github.com/mspanwar21/Algonquin_Pet_Store_25W_CST8915)  
+• Real-time Skateway Monitoring(https://github.com/mspanwar21/final_cst8916)
 • Hospital ERP and Cancer Detection (ML-based)
 
 💬 Ask me about:  
