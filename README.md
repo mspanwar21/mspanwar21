@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Mohit Singh Panwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohit Singh Panwar</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/vert ex" target="blank"><img src="https://img.shields.io/twitter/follow/vert ex?logo=twitter&style=for-the-badge" alt="vert ex" /></a> </p>
 
