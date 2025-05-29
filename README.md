@@ -37,7 +37,7 @@
 
 - 🧠 **Application Security Certified** (via IBM/Coursera)  
 - 🕵️ **NATAS Wargame** – Hands-on web security challenge platform
-- - 🔐 **TryHackMe Profile:** [View Profile](https://tryhackme.com/p/mohitsp21) 
+- 🔐 **TryHackMe Profile:** [View Profile](https://tryhackme.com/p/mohitsp21) 
 - 🛠️ **Tools:** Wireshark, Nmap, Burp Suite, Splunk  
 - ☁️ **GCP Skills Boost Profile:** [Google Cloud Labs & Quests](https://www.cloudskillsboost.google/public_profiles/249975db-e39a-403d-af20-5e9c81b9df83)  
 - 📜 **Credly Certifications:** [View on Credly](https://www.credly.com/users/mspanwar/)  
