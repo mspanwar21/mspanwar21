@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Panwar</h1>
-<h3 align="center">Cloud Developer | Full Stack Enthusiast | DevOps Learner</h3>
+<h3 align="center">Cloud Developer | Full Stack Enthusiast | DevOps & Cybersecurity Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-s-panwar/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mohitsp21@gmail.com" target="blank">
+  <a href="mailto:mohitsp21@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -13,13 +13,13 @@
 ---
 
 🔭 I’m currently working on:  
-• Building cloud-native applications using **AWS**, **Azure**, and **GCP**  
+• Cloud-native applications using **AWS**, **Azure**, and **GCP**  
 • Automating deployments with **GitHub Actions**, **Docker**, and **Terraform**  
-• Exploring **React Native** for mobile app development  
+• Exploring **React Native** for mobile development and improving accessibility  
 
 🌱 Currently learning:  
 • Advanced **DevOps pipelines** and **Infrastructure as Code**  
-• Improving accessibility and performance for full-stack web applications  
+• Secure web development and cloud security compliance standards  
 
 📌 Recent Projects:  
 • [BestBuy - Cloud Microservices](https://github.com/mspanwar21/BestBuy)  
@@ -32,20 +32,32 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛡️ Cybersecurity & Cloud Credentials
+
+- 🧠 **Application Security Certified** (via IBM/Coursera)  
+- 🕵️ **NATAS Wargame** – Hands-on web security challenge platform  
+- 🛠️ **Tools:** Wireshark, Nmap, Burp Suite, Splunk  
+- ☁️ **GCP Skills Boost Profile:** [Google Cloud Labs & Quests](https://www.cloudskillsboost.google/public_profiles/249975db-e39a-403d-af20-5e9c81b9df83)  
+- 📜 **Credly Certifications:** [View on Credly](https://www.credly.com/users/mohit-singh-panwar/)  
+- 🏆 **AWS Certified Cloud Practitioner**  
+- 💠 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
