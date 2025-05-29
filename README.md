@@ -25,7 +25,7 @@
 📌 Recent Projects:  
 • [BestBuy - Cloud Microservices](https://github.com/mspanwar21/BestBuy)  
 • [Algonquin Pet Store](https://github.com/mspanwar21/Algonquin_Pet_Store_25W_CST8915)  
-• Real-time Skateway Monitoring(https://github.com/mspanwar21/final_cst8916)
+• [Real-time Skateway Monitoring](https://github.com/mspanwar21/final_cst8916)
 • Hospital ERP and Cancer Detection (ML-based)
 
 💬 Ask me about:  
@@ -39,9 +39,8 @@
 - 🕵️ **NATAS Wargame** – Hands-on web security challenge platform  
 - 🛠️ **Tools:** Wireshark, Nmap, Burp Suite, Splunk  
 - ☁️ **GCP Skills Boost Profile:** [Google Cloud Labs & Quests](https://www.cloudskillsboost.google/public_profiles/249975db-e39a-403d-af20-5e9c81b9df83)  
-- 📜 **Credly Certifications:** [View on Credly](https://www.credly.com/users/mohit-singh-panwar/)  
+- 📜 **Credly Certifications:** [View on Credly](https://www.credly.com/users/mspanwar/)  
 - 🏆 **AWS Certified Cloud Practitioner**  
-- 💠 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
